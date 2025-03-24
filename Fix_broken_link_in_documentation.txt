@@ -1,1 +1,1 @@
-This commit refactors the login module to improve its performance by optimizing redundant code and reducing unnecessary API calls.
+Fixed a bug in the user profile update form that prevented users from changing their email address.
