@@ -1,1 +1,1 @@
-Improved the homepage load speed by optimizing image sizes and reducing the number of HTTP requests.
+Updated the README file to provide clearer installation instructions, including steps for setting up the environment variables.
