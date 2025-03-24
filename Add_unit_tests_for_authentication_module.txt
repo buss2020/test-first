@@ -1,0 +1,1 @@
+Fixed a bug in the user profile update form that prevented users from changing their email address.
