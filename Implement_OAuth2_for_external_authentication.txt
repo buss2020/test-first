@@ -1,1 +1,1 @@
-Improved error handling for API calls, ensuring that users receive more descriptive error messages in case of failures.
+Improved the mobile UI by making the layout more responsive and ensuring all buttons are touch-friendly.
