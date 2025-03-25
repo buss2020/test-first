@@ -1,1 +1,1 @@
-This commit fixes a typo in the error message shown during user authentication. The incorrect 'usre' was changed to 'user'.
+Removed deprecated API endpoints that are no longer in use to keep the codebase clean and maintainable.
