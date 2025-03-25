@@ -1,1 +1,1 @@
-This commit refactors the login module to improve its performance by optimizing redundant code and reducing unnecessary API calls.
+Fixed an issue with image uploads on the user profile page, where certain image formats were not being accepted.
