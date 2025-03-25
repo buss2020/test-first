@@ -1,1 +1,1 @@
-Refactored the code to improve readability and maintainability by following coding best practices and removing unnecessary comments.
+Updated the README file to provide clearer installation instructions, including steps for setting up the environment variables.
