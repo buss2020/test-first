@@ -1,1 +1,1 @@
-Added support for multiple languages in the app, starting with Spanish and French, and updated the UI to handle language switching.
+Fixed an issue with image uploads on the user profile page, where certain image formats were not being accepted.
