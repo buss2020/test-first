@@ -1,1 +1,1 @@
-This commit fixes a typo in the error message shown during user authentication. The incorrect 'usre' was changed to 'user'.
+Improved the mobile UI by making the layout more responsive and ensuring all buttons are touch-friendly.
