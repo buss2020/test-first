@@ -1,1 +1,1 @@
-Refactored the product search function to improve search speed and add support for filtering results based on product category.
+Updated the README file to provide clearer installation instructions, including steps for setting up the environment variables.
