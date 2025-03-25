@@ -1,1 +1,1 @@
-Added validation to the registration form to ensure that users enter a valid email address format.
+Improved the homepage load speed by optimizing image sizes and reducing the number of HTTP requests.
