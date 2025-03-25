@@ -1,1 +1,1 @@
-Updated all project dependencies to the latest stable versions to ensure compatibility and security.
+Fixed an issue with image uploads on the user profile page, where certain image formats were not being accepted.
