@@ -1,1 +1,1 @@
-Fixed a broken link in the documentation that led to a 404 page. The link was updated to point to the correct API documentation.
+Added validation to the registration form to ensure that users enter a valid email address format.
