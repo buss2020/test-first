@@ -1,1 +1,1 @@
-Optimized database queries for performance by adding appropriate indexes and reducing redundant joins.
+Added validation to the registration form to ensure that users enter a valid email address format.
