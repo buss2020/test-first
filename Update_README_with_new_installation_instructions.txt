@@ -1,1 +1,1 @@
-Refactored the code to improve readability and maintainability by following coding best practices and removing unnecessary comments.
+Improved error handling for API calls, ensuring that users receive more descriptive error messages in case of failures.
