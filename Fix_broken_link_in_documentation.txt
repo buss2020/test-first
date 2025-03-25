@@ -1,1 +1,1 @@
-Fixed a bug where pagination controls were not visible when the product list exceeded a certain number of items.
+Fixed an issue with image uploads on the user profile page, where certain image formats were not being accepted.
