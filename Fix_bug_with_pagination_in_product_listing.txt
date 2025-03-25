@@ -1,1 +1,1 @@
-Fixed an issue with image uploads on the user profile page, where certain image formats were not being accepted.
+Refactored the product search function to improve search speed and add support for filtering results based on product category.
