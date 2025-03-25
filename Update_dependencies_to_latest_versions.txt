@@ -1,1 +1,1 @@
-Added unit tests for the user authentication module to ensure that the login and registration processes work as expected.
+Added support for multiple languages in the app, starting with Spanish and French, and updated the UI to handle language switching.
