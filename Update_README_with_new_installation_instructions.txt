@@ -1,1 +1,1 @@
-Added validation to the registration form to ensure that users enter a valid email address format.
+Added support for multiple languages in the app, starting with Spanish and French, and updated the UI to handle language switching.
