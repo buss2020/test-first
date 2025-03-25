@@ -1,1 +1,1 @@
-This commit resolves an issue where user sessions would unexpectedly expire after a short period of time. The session timeout duration was increased.
+Improved error handling for API calls, ensuring that users receive more descriptive error messages in case of failures.
