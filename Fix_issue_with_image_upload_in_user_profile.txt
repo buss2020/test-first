@@ -1,1 +1,1 @@
-Fixed a bug where pagination controls were not visible when the product list exceeded a certain number of items.
+Removed deprecated API endpoints that are no longer in use to keep the codebase clean and maintainable.
