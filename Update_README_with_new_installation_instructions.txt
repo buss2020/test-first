@@ -1,1 +1,1 @@
-Updated all project dependencies to the latest stable versions to ensure compatibility and security.
+Added validation to the registration form to ensure that users enter a valid email address format.
