@@ -1,1 +1,1 @@
-Fixed a bug in the user profile update form that prevented users from changing their email address.
+This commit resolves an issue where user sessions would unexpectedly expire after a short period of time. The session timeout duration was increased.
