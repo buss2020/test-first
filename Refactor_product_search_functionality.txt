@@ -1,1 +1,1 @@
-This commit fixes a typo in the error message shown during user authentication. The incorrect 'usre' was changed to 'user'.
+Refactored the product search function to improve search speed and add support for filtering results based on product category.
