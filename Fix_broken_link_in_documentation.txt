@@ -1,1 +1,1 @@
-Fixed a bug where the password reset form did not send emails to users under certain conditions.
+Improved error handling for API calls, ensuring that users receive more descriptive error messages in case of failures.
