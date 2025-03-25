@@ -1,1 +1,1 @@
-Added validation to the registration form to ensure that users enter a valid email address format.
+Refactored the code to improve readability and maintainability by following coding best practices and removing unnecessary comments.
