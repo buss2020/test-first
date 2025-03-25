@@ -1,1 +1,1 @@
-Added unit tests for the user authentication module to ensure that the login and registration processes work as expected.
+Fixed a bug where the password reset form did not send emails to users under certain conditions.
