@@ -1,1 +1,1 @@
-Refactored the product search function to improve search speed and add support for filtering results based on product category.
+Added validation to the registration form to ensure that users enter a valid email address format.
