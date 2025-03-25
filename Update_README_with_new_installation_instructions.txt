@@ -1,1 +1,1 @@
-Updated the README file to provide clearer installation instructions, including steps for setting up the environment variables.
+This commit resolves an issue where user sessions would unexpectedly expire after a short period of time. The session timeout duration was increased.
