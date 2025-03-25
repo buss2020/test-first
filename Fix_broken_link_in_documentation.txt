@@ -1,1 +1,1 @@
-Fixed an issue with image uploads on the user profile page, where certain image formats were not being accepted.
+Fixed a bug where the password reset form did not send emails to users under certain conditions.
