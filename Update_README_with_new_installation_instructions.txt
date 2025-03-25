@@ -1,1 +1,1 @@
-This commit resolves an issue where user sessions would unexpectedly expire after a short period of time. The session timeout duration was increased.
+Refactored the code to improve readability and maintainability by following coding best practices and removing unnecessary comments.
