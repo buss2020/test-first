@@ -1,1 +1,1 @@
-Improved error handling for API calls, ensuring that users receive more descriptive error messages in case of failures.
+Fixed a bug in the user profile update form that prevented users from changing their email address.
