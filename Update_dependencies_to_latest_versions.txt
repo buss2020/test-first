@@ -1,1 +1,1 @@
-This commit refactors the login module to improve its performance by optimizing redundant code and reducing unnecessary API calls.
+Added validation to the registration form to ensure that users enter a valid email address format.
