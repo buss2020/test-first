@@ -1,1 +1,1 @@
-Fixed a bug where the password reset form did not send emails to users under certain conditions.
+Improved the homepage load speed by optimizing image sizes and reducing the number of HTTP requests.
