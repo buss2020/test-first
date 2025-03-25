@@ -1,1 +1,1 @@
-Added support for multiple languages in the app, starting with Spanish and French, and updated the UI to handle language switching.
+Fixed a bug where pagination controls were not visible when the product list exceeded a certain number of items.
