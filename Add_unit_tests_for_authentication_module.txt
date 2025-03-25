@@ -1,1 +1,1 @@
-Fixed a bug in the user profile update form that prevented users from changing their email address.
+Fixed an issue with image uploads on the user profile page, where certain image formats were not being accepted.
