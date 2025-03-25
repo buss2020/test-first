@@ -1,1 +1,1 @@
-Added validation to the registration form to ensure that users enter a valid email address format.
+Fixed a bug in the user profile update form that prevented users from changing their email address.
