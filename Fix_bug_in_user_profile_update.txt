@@ -1,1 +1,1 @@
-Improved the homepage load speed by optimizing image sizes and reducing the number of HTTP requests.
+Fixed an issue with image uploads on the user profile page, where certain image formats were not being accepted.
