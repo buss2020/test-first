@@ -1,1 +1,1 @@
-Added validation to the registration form to ensure that users enter a valid email address format.
+Improved error handling for API calls, ensuring that users receive more descriptive error messages in case of failures.
