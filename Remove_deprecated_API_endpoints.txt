@@ -1,1 +1,1 @@
-Refactored the code to improve readability and maintainability by following coding best practices and removing unnecessary comments.
+Removed deprecated API endpoints that are no longer in use to keep the codebase clean and maintainable.
