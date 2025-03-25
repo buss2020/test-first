@@ -1,1 +1,1 @@
-Added validation to the registration form to ensure that users enter a valid email address format.
+Fixed a bug where pagination controls were not visible when the product list exceeded a certain number of items.
