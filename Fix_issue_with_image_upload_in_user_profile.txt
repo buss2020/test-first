@@ -1,1 +1,1 @@
-Fixed a bug in the user profile update form that prevented users from changing their email address.
+Fixed a bug where pagination controls were not visible when the product list exceeded a certain number of items.
