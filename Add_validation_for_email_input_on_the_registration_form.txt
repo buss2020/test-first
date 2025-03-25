@@ -1,1 +1,1 @@
-This commit fixes a typo in the error message shown during user authentication. The incorrect 'usre' was changed to 'user'.
+This commit resolves an issue where user sessions would unexpectedly expire after a short period of time. The session timeout duration was increased.
