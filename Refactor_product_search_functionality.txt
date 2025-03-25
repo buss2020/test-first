@@ -1,1 +1,1 @@
-Refactored the product search function to improve search speed and add support for filtering results based on product category.
+Optimized database queries for performance by adding appropriate indexes and reducing redundant joins.
