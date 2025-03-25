@@ -1,1 +1,1 @@
-Updated all project dependencies to the latest stable versions to ensure compatibility and security.
+Updated the README file to provide clearer installation instructions, including steps for setting up the environment variables.
