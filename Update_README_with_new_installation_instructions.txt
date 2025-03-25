@@ -1,1 +1,1 @@
-Added validation to the registration form to ensure that users enter a valid email address format.
+This commit fixes a typo in the error message shown during user authentication. The incorrect 'usre' was changed to 'user'.
