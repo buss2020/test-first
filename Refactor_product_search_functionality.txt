@@ -1,1 +1,1 @@
-Updated the README file to provide clearer installation instructions, including steps for setting up the environment variables.
+This commit refactors the login module to improve its performance by optimizing redundant code and reducing unnecessary API calls.
