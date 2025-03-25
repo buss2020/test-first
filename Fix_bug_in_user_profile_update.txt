@@ -1,1 +1,1 @@
-Fixed a bug where pagination controls were not visible when the product list exceeded a certain number of items.
+Added unit tests for the user authentication module to ensure that the login and registration processes work as expected.
