@@ -1,1 +1,1 @@
-Updated all project dependencies to the latest stable versions to ensure compatibility and security.
+Added support for multiple languages in the app, starting with Spanish and French, and updated the UI to handle language switching.
