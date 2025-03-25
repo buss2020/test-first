@@ -1,1 +1,1 @@
-Fixed a broken link in the documentation that led to a 404 page. The link was updated to point to the correct API documentation.
+Fixed an issue with image uploads on the user profile page, where certain image formats were not being accepted.
