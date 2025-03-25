@@ -1,1 +1,1 @@
-Refactored the code to improve readability and maintainability by following coding best practices and removing unnecessary comments.
+This commit refactors the login module to improve its performance by optimizing redundant code and reducing unnecessary API calls.
