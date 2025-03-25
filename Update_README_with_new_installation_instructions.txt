@@ -1,1 +1,1 @@
-This commit fixes a typo in the error message shown during user authentication. The incorrect 'usre' was changed to 'user'.
+Updated the README file to provide clearer installation instructions, including steps for setting up the environment variables.
