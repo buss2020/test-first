@@ -1,1 +1,1 @@
-Optimized database queries for performance by adding appropriate indexes and reducing redundant joins.
+Fixed a bug where pagination controls were not visible when the product list exceeded a certain number of items.
