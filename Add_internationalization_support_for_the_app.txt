@@ -1,1 +1,1 @@
-Fixed an issue with image uploads on the user profile page, where certain image formats were not being accepted.
+Improved error handling for API calls, ensuring that users receive more descriptive error messages in case of failures.
