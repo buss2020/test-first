@@ -1,1 +1,1 @@
-Optimized database queries for performance by adding appropriate indexes and reducing redundant joins.
+Fixed a bug where the password reset form did not send emails to users under certain conditions.
