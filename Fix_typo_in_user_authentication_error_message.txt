@@ -1,1 +1,1 @@
-Fixed a broken link in the documentation that led to a 404 page. The link was updated to point to the correct API documentation.
+This commit resolves an issue where user sessions would unexpectedly expire after a short period of time. The session timeout duration was increased.
