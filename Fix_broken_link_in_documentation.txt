@@ -1,1 +1,1 @@
-Fixed a bug where pagination controls were not visible when the product list exceeded a certain number of items.
+This commit refactors the login module to improve its performance by optimizing redundant code and reducing unnecessary API calls.
