@@ -1,1 +1,1 @@
-Fixed a bug where pagination controls were not visible when the product list exceeded a certain number of items.
+Improved the homepage load speed by optimizing image sizes and reducing the number of HTTP requests.
