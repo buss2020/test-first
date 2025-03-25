@@ -1,1 +1,1 @@
-Refactored the product search function to improve search speed and add support for filtering results based on product category.
+Added support for multiple languages in the app, starting with Spanish and French, and updated the UI to handle language switching.
