@@ -1,1 +1,1 @@
-Improved the homepage load speed by optimizing image sizes and reducing the number of HTTP requests.
+Fixed a broken link in the documentation that led to a 404 page. The link was updated to point to the correct API documentation.
